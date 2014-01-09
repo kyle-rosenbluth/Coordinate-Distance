@@ -1,5 +1,5 @@
 ## Coordinate Distance
-A short python script that calculates the distance (in km) between to latitude/longitude coordinates from user input.
+A short python script that calculates the distance (in km) between two latitude/longitude coordinates from user input.
 
 ## Input
 Coordinates should be input via a REPL as: latitude,longitude.
