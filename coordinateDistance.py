@@ -1,6 +1,5 @@
 from math import sin, cos, sqrt, atan2, radians
 
-
 def distance(coord1, coord2):
 	R = 6373.0
 	lat1 = radians(coord1[0])
